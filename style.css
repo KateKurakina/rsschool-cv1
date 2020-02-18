@@ -1,0 +1,35 @@
+header {
+  width: 100%;
+  max-width: 1024px;
+}
+
+h1 {
+  margin-bottom: 10px; 
+}
+  
+h2 {
+  margin-bottom: 15px; 
+}
+  
+article, 
+nav {
+  margin-bottom: 15px;
+}
+   
+.photo {
+  margin-bottom: 20px;
+}
+
+a:hover {
+  color: #154088; 
+  border-bottom: .07em solid;
+}
+
+a:active {
+  color: #497DDD; 
+  border-bottom: 1px dashed;
+}
+
+ul {
+  padding-left: 20px; 
+}	
