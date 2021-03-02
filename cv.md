@@ -2,6 +2,7 @@
 ***
 ## Contact Info
 **Number Phone:** +79875766642  
+**Discord:** KateKurakina#1028
 **VK:** [KateKurakina](https://vk.com/idkatekurakina)
 
 ## Summary
